@@ -1,6 +1,6 @@
 # Anime Downloader
 
-Ever wanted to download anime without clickbaits and at all at a go without using torrents? Anime Downloader uses  web scraping to directly download anime from [Animeplus](http://www.animeplus.tv/).
+Ever wanted to download anime without clickbaits and all at a go without using torrents? Anime Downloader uses  web scraping to directly download anime from [Animeplus](http://www.animeplus.tv/).
 
 Used [Requests](http://docs.python-requests.org/en/master/), [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/), [Mechanize](http://wwwsearch.sourceforge.net/mechanize/documentation.html), [tqdm](https://pypi.python.org/pypi/tqdm) and [termcolor](https://pypi.python.org/pypi/termcolor)
 
